@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 222, 227);
+}
+
+#app{
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    background-color: pink;
+}
+
+#kodeBarang{
+    border-radius: 5px;
+}
+
+#jumlahBarang{
+    border-radius: 5px;
+}
+
+button{
+    border-radius: 5px;
+}
